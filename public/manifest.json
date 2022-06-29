@@ -1,0 +1,37 @@
+{
+        "name": "Corona Tracker",
+        "short_name": "Corona Tracker",
+        "theme_color": "#de2b56",
+        "background_color": "#bf3f56",
+        "display": "standalone",
+        "scope": "/",
+        "start_url": "/",
+    "icons": [
+      {
+        "src": "maskable_icon.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "coronavirus-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "coronavirus-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "coronavirus-356x356.png",
+        "type": "image/png",
+        "sizes": "356x356"
+      },
+      {
+        "src": "coronavirus-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
